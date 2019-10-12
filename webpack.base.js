@@ -56,7 +56,7 @@ module.exports = {
     extensions: [".ts", ".tsx", ".js", ".json", ".scss"],
     alias: {
       components: path.resolve("./src/components"),
-      views: path.resolve("./src/containers"),
+      views: path.resolve("./src/views"),
       root: path.resolve("./src")
     }
   },
